@@ -2,7 +2,6 @@ package days
 
 import Day
 import java.io.File
-import java.util.Stack
 
 class Day5 : Day<String, Unit> {
     // TODO: parse the stacks properly cuz this aint it pal
